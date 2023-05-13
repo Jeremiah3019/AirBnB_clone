@@ -147,6 +147,11 @@ count	Retrieve the number of instances of a class.
 Usage	<class name>.count()
 
 **Authors**
+<<<<<<< HEAD
+=======
+  
+Raymond Emmanson | Email: raymmanson21@gmail.com
+>>>>>>> eeaa3f5acc63a8f1aeb4dea743bd599ac040dd8c
 
 Raymond Emmanson | Email: raymmanson21@gmail.com
 Meseret Birhanu | Email: meseret1918@gmail.com
